@@ -1,0 +1,30 @@
+# Power System Analysis - Requirements
+# IEEE 33-bus, 69-bus, and 118-bus Load Flow Analysis
+
+# Core Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+networkx>=2.6.0
+
+# Power System Analysis
+pandapower>=2.13.0
+
+# Jupyter Notebook (if using .ipynb)
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Excel Export Support
+openpyxl>=3.0.9
+xlsxwriter>=3.0.0
+
+# Optional: For better performance
+numba>=0.55.0
+scipy>=1.7.0
+
+# Optional: For plotting enhancements
+seaborn>=0.11.0
+plotly>=5.0.0
+
+
